@@ -1,6 +1,6 @@
 # Projeto Google Analytics
 
-Este projeto foi feito para estudar pixels do G.A. e integrar os dados com FireBase como banco de dados
+Este projeto foi feito para estudar eventos do G.A. e integrar os dados com FireBase como banco de dados
 
 ## Como Startar
 
